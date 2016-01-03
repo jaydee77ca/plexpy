@@ -62,6 +62,7 @@ _CONFIG_DEFINITIONS = {
     'DO_NOT_OVERRIDE_GIT_BRANCH': (int, 'General', 0),
     'EMAIL_ENABLED': (int, 'Email', 0),
     'EMAIL_FROM': (str, 'Email', ''),
+	'EMAIL_FROM_NAME': (str, 'Email', ''),
     'EMAIL_TO': (str, 'Email', ''),
     'EMAIL_CC': (str, 'Email', ''),
     'EMAIL_BCC': (str, 'Email', ''),
